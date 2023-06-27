@@ -1,5 +1,7 @@
 # ![ico](https://github.com/Rainier-MSFT/Forefront_UAG_Toolbox/assets/6311098/e75145ae-f4a2-49be-b6f7-efc617c46e3b) **Forefront-UAG-Toolbox**
 
+Toolkit developed to simplify troubleshooting and customisation of Unified Access Gateway. Tool sits in systray providing lots of valuable capabilities including an integrated Regex helper and string seeker.
+
 <img src="https://github.com/Rainier-MSFT/Forefront_UAG_Toolbox/assets/6311098/7b833a1e-9f30-4fbe-9dea-d7da5cc9de1d" width=30%>
 
 <img src="https://github.com/Rainier-MSFT/Forefront_UAG_Toolbox/assets/6311098/f4df7bdb-82b5-4a7b-84d4-a78739fa25db" width=60%>
