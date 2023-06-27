@@ -13,3 +13,5 @@ Toolkit developed to simplify troubleshooting and customisation of Unified Acces
 <img src="https://github.com/Rainier-MSFT/Forefront_UAG_Toolbox/assets/6311098/a98617b6-f1d1-4c21-9441-f0463bacb491" width=30%>
 
 <img src="https://github.com/Rainier-MSFT/Forefront_UAG_Toolbox/assets/6311098/278f091a-8309-4c78-9f7d-f0d2462e11a9" width=60%>
+
+<img src="https://github.com/Rainier-MSFT/Forefront_UAG_Toolbox/assets/6311098/a8ac974f-05e1-4a68-a793-471abded4c3e" width=30%>
